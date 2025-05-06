@@ -16,6 +16,4 @@ A simple web application built using **HTML**, **CSS**, and **JavaScript** that 
 * CSS for styling
 * JavaScript for interactivity
 
----
 
-Would you like me to help you create a `README.md` file with this description?
